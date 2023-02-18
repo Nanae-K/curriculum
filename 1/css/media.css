@@ -1,0 +1,63 @@
+@media screen and (max-width: 479px) {
+
+.header{
+        width: 200px;
+        height: 200px;
+        
+    }
+
+    .flex-container {
+        width: 60px;
+        height: 160px;
+        display: block;
+        margin-left: 70px;
+
+
+    }
+
+    .box2{
+        margin-left: 10px;
+    }
+
+    .box3{
+        margin-left: 10px;
+    }
+
+
+
+    .green-box{
+         width: 200px;
+         height: 100px;
+         float: initial;
+    }
+
+    .right{
+         width: 200px;
+         height: 200px;
+
+    }
+
+    .orange1{
+        top: 20px;
+        left: 30px;
+       
+    }
+
+    .orange2{
+        top: 80px;
+        left: 30px;
+    }
+
+    .orange3 {
+        top: 140px;
+        left: 30px;
+    }
+
+
+    
+
+    .footer{
+        width: 200px;
+    }
+
+}
